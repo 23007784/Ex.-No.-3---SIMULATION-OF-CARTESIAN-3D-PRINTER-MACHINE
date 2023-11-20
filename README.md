@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Ex 3](https://github.com/23007784/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139115570/5b956300-8e45-4aae-9acd-aedee2bcee50)
+![EX 3 ](https://github.com/23007784/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139115570/f612f838-c374-480e-9732-dba36600861a)
+
 
 
 ### Name:Nikshitha G 
